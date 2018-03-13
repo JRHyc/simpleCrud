@@ -1,0 +1,10 @@
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp2.0\simpleCrud.deps.json
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp2.0\simpleCrud.runtimeconfig.json
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp2.0\simpleCrud.runtimeconfig.dev.json
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp2.0\simpleCrud.dll
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\bin\Debug\netcoreapp2.0\simpleCrud.pdb
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\obj\Debug\netcoreapp2.0\simpleCrud.csproj.CoreCompileInputs.cache
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\obj\Debug\netcoreapp2.0\simpleCrud.AssemblyInfoInputs.cache
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\obj\Debug\netcoreapp2.0\simpleCrud.AssemblyInfo.cs
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\obj\Debug\netcoreapp2.0\simpleCrud.dll
+C:\Users\LabRatJack\Documents\DojoAssignments\netCore\simpleCrud\obj\Debug\netcoreapp2.0\simpleCrud.pdb
